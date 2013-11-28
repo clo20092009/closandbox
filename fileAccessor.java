@@ -1,10 +1,12 @@
-public main(a,c,b,d,z,y,x){
-
+public main(i,j,k){
 
 
 }
 
-Void anotherAnotherfunction(){
 
-return;
+
+boolean anotherfuc(){
+  
+  
 }
+
